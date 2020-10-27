@@ -1,4 +1,4 @@
-# Özge Duman Progress Journal
+# Ozge Duman Progress Journal
 
 ## Week 0 (October 27)
 
