@@ -7,3 +7,6 @@
 ## Week 3 (November 20)
 
 [Here](files\HW1_ozgeduman.html) is my HW1
+
+[Here](files\hw1.ipynb) is my code for HW1
+
