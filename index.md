@@ -10,3 +10,8 @@
 
 [Here](files\hw1.ipynb) is my code for HW1
 
+## Week 5 (December 11)
+
+[Here](files\HW2_ozgeduman.html) is my HW2
+
+[Here](files\hw2.ipynb) is my code for HW2
