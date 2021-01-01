@@ -18,6 +18,6 @@
 
 ## HW3
 
-[Here](files\HW3_ozgeduman.html) is my HW2
+[Here](files\HW3_ozgeduman.html) is my HW3
 
-[Here](files\HW3_ozgeduman.ipynb) is my code for HW2
+[Here](files\HW3_ozgeduman.ipynb) is my code for HW3
